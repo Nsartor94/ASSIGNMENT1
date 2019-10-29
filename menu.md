@@ -1,3 +1,3 @@
 1143715
-./primavera.md
-./vegetariano.md
+./panini/vegetariano.md
+./panini/primavera.md
